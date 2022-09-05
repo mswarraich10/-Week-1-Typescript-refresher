@@ -1,3 +1,5 @@
+// repo link: https://github.com/mswarraich10/-Week-1-Typescript-refresher
+
 /*
 Problem:
 A milkman has package bottles of various sizes given in a sorted array e.g [1,3,5,7,10].
