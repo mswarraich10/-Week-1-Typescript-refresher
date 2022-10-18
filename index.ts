@@ -30,3 +30,4 @@ console.log(GetTotalBottles(21));
 console.log(GetTotalBottles(17));
 console.log(GetTotalBottles(12));
 console.log(GetTotalBottles(6));
+console.log(GetTotalBottles(9));
